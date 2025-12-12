@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Felipe, an experienced Product Security Engineer excited about open source and new technologies.
+I'm Felipe, a Product Security Engineer passionate about building secure, reliable systems at scale and exploring new technologies.
 
-- 🔭 I'm currently working on projects related to threat modeling, SAST, and secret management
-- 🌱 I'm fluent in Python and interested in learning Go and Node.js
+- 🔭 Currently working on projects related to DevSecOps and IAM
+- 🌱 Fluent in Python and exploring Go and Node.js
+- 🤖 Experimenting with AI-powered development environments, such as Claude Code + Kilo
