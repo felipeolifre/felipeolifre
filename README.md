@@ -4,4 +4,4 @@ I'm Felipe, a Product Security Engineer passionate about building secure, reliab
 
 - 🔭 Currently working on projects related to DevSecOps and IAM
 - 🌱 Fluent in Python and exploring Go and Node.js
-- 🤖 Experimenting with AI-powered development environments, such as Claude Code + Kilo
+- 🤖 Experimenting with context augmentation for AI-powered development environments
